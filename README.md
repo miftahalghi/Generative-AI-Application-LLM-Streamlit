@@ -2,7 +2,7 @@
 
 Chatbot cerdas berbasis **LangChain ReAct Agent** dan **Groq** untuk platform e-commerce. Dilengkapi dengan berbagai tools untuk pencarian produk, pemesanan kendaraan, informasi cuaca, dan lainnya.
 
-> **[🚀 Live Demo](https://your-app-name.streamlit.app)** ← *update setelah deploy*
+> **[🚀 Live Demo](https://genai-llm-app.streamlit.app/)** 
 
 ---
 
